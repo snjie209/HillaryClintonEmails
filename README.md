@@ -3,6 +3,8 @@ This repository consists of a Machine Learning class final project collaborative
 About:
 
 • MasterFile.R: All the code needed to do processing of data
+
 • FunctionsFile.R: User-defined functions to help prepare data, functions we use in the statistical analysis of Random Forests, SVM and K-means cluster analysis and additional functions that aid us in the creation of illustrative plots. 
+
 • Project Report WriteUp.pdf: Containts a holistic report of the results of our R code, machine learning algorithms, and training and test set analysis and observations.
 
