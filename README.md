@@ -1,4 +1,4 @@
-This repository consists of a Machine Learning class final project collaboratively prepared by myself and four other classmates (Max Eddy, Matthew Weglicki, Julio Soldevilla). The goal of the project was to use Machine Learning models from the course, both supervised and unsupervised, to classify the top 5 senders of Hillary Clinton's released emails after the enactment o the Freedom of Information Act.
+This repository consists of a Machine Learning class final project collaboratively prepared by myself and three other classmates (Max Eddy, Matthew Weglicki, Julio Soldevilla). The goal of the project was to use Machine Learning models from the course, both supervised and unsupervised, to classify the top 5 senders of Hillary Clinton's released emails after the enactment o the Freedom of Information Act.
 
 About:
 
